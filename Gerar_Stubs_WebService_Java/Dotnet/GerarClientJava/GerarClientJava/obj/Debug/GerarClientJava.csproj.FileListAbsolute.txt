@@ -1,0 +1,9 @@
+c:\users\lzcdoss\documents\visual studio 2015\Projects\GerarClientJava\GerarClientJava\bin\Debug\GerarClientJava.exe.config
+c:\users\lzcdoss\documents\visual studio 2015\Projects\GerarClientJava\GerarClientJava\bin\Debug\GerarClientJava.exe
+c:\users\lzcdoss\documents\visual studio 2015\Projects\GerarClientJava\GerarClientJava\bin\Debug\GerarClientJava.pdb
+c:\users\lzcdoss\documents\visual studio 2015\Projects\GerarClientJava\GerarClientJava\obj\Debug\GerarClientJava.csprojResolveAssemblyReference.cache
+c:\users\lzcdoss\documents\visual studio 2015\Projects\GerarClientJava\GerarClientJava\obj\Debug\GerarClientJava.Form1.resources
+c:\users\lzcdoss\documents\visual studio 2015\Projects\GerarClientJava\GerarClientJava\obj\Debug\GerarClientJava.Properties.Resources.resources
+c:\users\lzcdoss\documents\visual studio 2015\Projects\GerarClientJava\GerarClientJava\obj\Debug\GerarClientJava.csproj.GenerateResource.Cache
+c:\users\lzcdoss\documents\visual studio 2015\Projects\GerarClientJava\GerarClientJava\obj\Debug\GerarClientJava.exe
+c:\users\lzcdoss\documents\visual studio 2015\Projects\GerarClientJava\GerarClientJava\obj\Debug\GerarClientJava.pdb

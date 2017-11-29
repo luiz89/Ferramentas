@@ -1,0 +1,6 @@
+c:\users\lzcdoss\documents\visual studio 2015\Projects\GerarStubsJava\GerarStubsJava\bin\Debug\GerarStubsJava.exe.config
+c:\users\lzcdoss\documents\visual studio 2015\Projects\GerarStubsJava\GerarStubsJava\obj\Debug\GerarStubsJava.csprojResolveAssemblyReference.cache
+c:\users\lzcdoss\documents\visual studio 2015\Projects\GerarStubsJava\GerarStubsJava\bin\Debug\GerarStubsJava.exe
+c:\users\lzcdoss\documents\visual studio 2015\Projects\GerarStubsJava\GerarStubsJava\bin\Debug\GerarStubsJava.pdb
+c:\users\lzcdoss\documents\visual studio 2015\Projects\GerarStubsJava\GerarStubsJava\obj\Debug\GerarStubsJava.exe
+c:\users\lzcdoss\documents\visual studio 2015\Projects\GerarStubsJava\GerarStubsJava\obj\Debug\GerarStubsJava.pdb

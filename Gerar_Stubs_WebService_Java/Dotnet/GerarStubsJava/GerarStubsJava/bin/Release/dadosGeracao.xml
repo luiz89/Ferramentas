@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dados>
+  <caminhoOutput>C:\Users\lzcdoss\Desktop\testeGerarClientJava\c#</caminhoOutput>
+  <caminhoPackage>teste</caminhoPackage>
+  <caminhoWsdl>http://localhost:8787/webService/WebService?wsdl</caminhoWsdl>
+  </dados>

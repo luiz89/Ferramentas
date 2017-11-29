@@ -1,0 +1,14 @@
+parsing WSDL...
+
+
+[ERROR] Connection refused: connect
+
+Failed to read the WSDL document: http://localhost:8787/webService/WebService?wsdl, because 1) could not find the document; /2) the document could not be read; 3) the root element of the document is not <wsdl:definitions>.
+
+
+[ERROR] Could not find wsdl:service in the provided WSDL(s): 
+
+ At least one WSDL with at least one service definition needs to be provided.
+
+
+	Failed to parse the WSDL.

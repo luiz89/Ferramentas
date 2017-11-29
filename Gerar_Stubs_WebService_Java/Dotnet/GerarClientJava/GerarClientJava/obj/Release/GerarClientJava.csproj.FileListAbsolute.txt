@@ -1,0 +1,8 @@
+c:\users\lzcdoss\documents\visual studio 2015\Projects\GerarClientJava\GerarClientJava\bin\Release\GerarClientJava.exe.config
+c:\users\lzcdoss\documents\visual studio 2015\Projects\GerarClientJava\GerarClientJava\bin\Release\GerarClientJava.exe
+c:\users\lzcdoss\documents\visual studio 2015\Projects\GerarClientJava\GerarClientJava\bin\Release\GerarClientJava.pdb
+c:\users\lzcdoss\documents\visual studio 2015\Projects\GerarClientJava\GerarClientJava\obj\Release\GerarClientJava.Form1.resources
+c:\users\lzcdoss\documents\visual studio 2015\Projects\GerarClientJava\GerarClientJava\obj\Release\GerarClientJava.Properties.Resources.resources
+c:\users\lzcdoss\documents\visual studio 2015\Projects\GerarClientJava\GerarClientJava\obj\Release\GerarClientJava.csproj.GenerateResource.Cache
+c:\users\lzcdoss\documents\visual studio 2015\Projects\GerarClientJava\GerarClientJava\obj\Release\GerarClientJava.exe
+c:\users\lzcdoss\documents\visual studio 2015\Projects\GerarClientJava\GerarClientJava\obj\Release\GerarClientJava.pdb
